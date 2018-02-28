@@ -35,3 +35,14 @@ p {
   font-family: Helvetica;
   font-size: 14px;
 }
+.footer {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto
+}
